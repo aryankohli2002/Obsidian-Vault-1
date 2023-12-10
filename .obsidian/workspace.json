@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "547b29994c9deb25",
@@ -179,8 +181,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0503dc78abd0d8da",
+  "active": "ab4e1b99ec60e66d",
   "lastOpenFiles": [
+    "Pasted image 20231210183352.png",
     "GIT/Internal Git working.md",
     "GIT/Git Reset.md",
     "GIT/git commit.md",
