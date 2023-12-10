@@ -1,0 +1,1 @@
+internally commits points to trees point to blobs and they move b/w working directory, staging area and the repository
