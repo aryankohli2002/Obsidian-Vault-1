@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Git Reset.md",
+                "file": "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "547b29994c9deb25",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Git Reset.md",
+                "file": "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Git Reset.md",
+                "file": "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Git Reset.md"
+                "file": "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md"
               }
             }
           },
@@ -183,9 +182,12 @@
   },
   "active": "ab4e1b99ec60e66d",
   "lastOpenFiles": [
+    "GIT/Git Reset.md",
+    "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
+    "Custom roms",
+    "README.md",
     "Pasted image 20231210183352.png",
     "GIT/Internal Git working.md",
-    "GIT/Git Reset.md",
     "GIT/git commit.md",
     "GIT/git branching.md",
     "GIT/git assignment.md",
@@ -208,7 +210,6 @@
     "Untitled.canvas",
     "Pasted image 20231208005141.png",
     "Pasted image 20231208000644.png",
-    "Pasted image 20231203175812.png",
     "Cloud/What is Docker architecture.md",
     "mercurial",
     "Cloud/Role of Docker in CI-CD Pipeline.md",
