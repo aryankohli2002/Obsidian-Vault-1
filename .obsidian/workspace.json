@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Git Reset.md",
+                "file": "mercurial/training program.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Git Reset.md",
+                "file": "mercurial/training program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Git Reset.md",
+                "file": "mercurial/training program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Git Reset.md"
+                "file": "mercurial/training program.md"
               }
             }
           },
@@ -182,13 +182,14 @@
   },
   "active": "ab4e1b99ec60e66d",
   "lastOpenFiles": [
+    "GIT/Git Reset.md",
+    "mercurial/training program.md",
     "GIT/git merge, rebase, squashing.md",
     "GIT/git branching.md",
     "GIT/Internal Git working.md",
     "GIT/Git Resources.md",
     "GIT/git commit.md",
     "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
-    "GIT/Git Reset.md",
     "Custom roms",
     "README.md",
     "Pasted image 20231210183352.png",
