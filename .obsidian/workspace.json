@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e0c1e3dd1c9a6a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +191,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ab4e1b99ec60e66d",
+  "active": "7e0c1e3dd1c9a6a3",
   "lastOpenFiles": [
     "Custom roms/[Guide] Pulling boot.img partition from your unlocked android device.md",
     "Custom roms/CAT.md",
