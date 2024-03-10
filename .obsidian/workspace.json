@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prob/Ace Tutor Youtube.md",
+                "file": "Untitled/proj notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prob/Ace Tutor Youtube.md",
+                "file": "Untitled/proj notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prob/Ace Tutor Youtube.md",
+                "file": "Untitled/proj notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prob/Ace Tutor Youtube.md"
+                "file": "Untitled/proj notes.md"
               }
             }
           },
@@ -208,6 +208,8 @@
   "active": "00600024935255c5",
   "lastOpenFiles": [
     "prob/Ace Tutor Youtube.md",
+    "Untitled/proj notes.md",
+    "Untitled",
     "prob",
     "Custom roms/CAT.md",
     "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
