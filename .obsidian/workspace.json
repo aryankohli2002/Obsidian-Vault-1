@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
+                "file": "code snippets for lookup/if else in html.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef8ad726ba81527c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code snippets for lookup/working with dictionary in html.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
+                "file": "code snippets for lookup/working with dictionary in html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
+                "file": "code snippets for lookup/working with dictionary in html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md"
+                "file": "code snippets for lookup/working with dictionary in html.md"
               }
             }
           },
@@ -205,15 +217,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "00600024935255c5",
+  "active": "ef8ad726ba81527c",
   "lastOpenFiles": [
-    "Custom roms/CAT.md",
+    "Pasted image 20240404215205.png",
+    "Pasted image 20240404215149.png",
+    "code snippets for lookup/working with dictionary in html.md",
+    "Untitled.canvas",
+    "code snippets for lookup/if else in html.md",
     "Custom roms/[Guide] Pulling boot.img partition from your unlocked android device.md",
+    "Pasted image 20240404211811.png",
+    "code snippets for lookup/html value from main.md",
+    "code snippets for lookup/Html input.md",
+    "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
+    "code snippets for lookup",
+    "Custom roms/CAT.md",
     "Untitled/proj notes.md",
     "prob/Ace Tutor Youtube.md",
     "Untitled",
     "prob",
-    "Custom roms/Instructions thread for (nabu) Mi Pad 5 on ArrowOS.md",
     "recovery code/twilio code.md",
     "Try hack me/Notes.md",
     "recovery code",
@@ -234,8 +255,6 @@
     "Cloud/Continuous integration with Docker.md",
     "GIT/git.md",
     "GIT/svc end sem.md",
-    "tips.md",
-    "algo course.md",
     "Pasted image 20231208013647.png",
     "Pasted image 20231208013443.png",
     "Pasted image 20231208013241.png",
@@ -243,14 +262,8 @@
     "Pasted image 20231208012409.png",
     "Pasted image 20231208012218.png",
     "Pasted image 20231208012202.png",
-    "Untitled.canvas",
-    "Pasted image 20231208005141.png",
-    "Pasted image 20231208000644.png",
-    "Cloud/What is Docker architecture.md",
     "mercurial",
-    "Cloud/Role of Docker in CI-CD Pipeline.md",
     "GIT",
-    "Cloud",
-    "2023-11-08.md"
+    "Cloud"
   ]
 }

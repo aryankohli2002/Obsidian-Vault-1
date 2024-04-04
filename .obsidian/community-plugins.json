@@ -12,5 +12,6 @@
   "obsidian-languagetool-plugin",
   "obsidian-git",
   "obsidian-pandoc",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "code-emitter"
 ]
