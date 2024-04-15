@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code snippets for lookup/working with dictionary in html.md",
+                "file": "code snippets for lookup/csrf.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code snippets for lookup/working with dictionary in html.md",
+                "file": "code snippets for lookup/csrf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code snippets for lookup/working with dictionary in html.md",
+                "file": "code snippets for lookup/csrf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code snippets for lookup/working with dictionary in html.md"
+                "file": "code snippets for lookup/csrf.md"
               }
             }
           },
@@ -219,9 +219,10 @@
   },
   "active": "ef8ad726ba81527c",
   "lastOpenFiles": [
+    "code snippets for lookup/working with dictionary in html.md",
+    "code snippets for lookup/csrf.md",
     "Pasted image 20240404215205.png",
     "Pasted image 20240404215149.png",
-    "code snippets for lookup/working with dictionary in html.md",
     "Untitled.canvas",
     "code snippets for lookup/if else in html.md",
     "Custom roms/[Guide] Pulling boot.img partition from your unlocked android device.md",
@@ -261,7 +262,6 @@
     "Pasted image 20231208012921.png",
     "Pasted image 20231208012409.png",
     "Pasted image 20231208012218.png",
-    "Pasted image 20231208012202.png",
     "mercurial",
     "GIT",
     "Cloud"
