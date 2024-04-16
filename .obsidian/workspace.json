@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code snippets for lookup/csrf.md",
+                "file": "code snippets for lookup/kinda working.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code snippets for lookup/csrf.md",
+                "file": "code snippets for lookup/kinda working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code snippets for lookup/csrf.md",
+                "file": "code snippets for lookup/kinda working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code snippets for lookup/csrf.md"
+                "file": "code snippets for lookup/kinda working.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "ef8ad726ba81527c",
   "lastOpenFiles": [
-    "code snippets for lookup/working with dictionary in html.md",
     "code snippets for lookup/csrf.md",
+    "code snippets for lookup/kinda working.md",
+    "code snippets for lookup/working with dictionary in html.md",
     "Pasted image 20240404215205.png",
     "Pasted image 20240404215149.png",
     "Untitled.canvas",
@@ -255,7 +256,6 @@
     "Cloud/links.md",
     "Cloud/Continuous integration with Docker.md",
     "GIT/git.md",
-    "GIT/svc end sem.md",
     "Pasted image 20231208013647.png",
     "Pasted image 20231208013443.png",
     "Pasted image 20231208013241.png",
