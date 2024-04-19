@@ -1,3 +1,5 @@
+[Python SQLAlchemy model with dynamic table name - EasyDevGuide.com](https://www.easydevguide.com/posts/dynamic_table)
+
 class CustomerTable(Base):
 
     __abstract__ = True
